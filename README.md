@@ -2,6 +2,8 @@
 
 # Training Results
 
+![training_results](https://github.com/user-attachments/assets/5b538bb8-9dbb-4307-b9a3-d9eff38da931)
+
 ## **Total Reward vs. Episode**
 - At the start, rewards are low (~0-10).  
 - Over time, rewards increase and stay around **30-40** on average.  
