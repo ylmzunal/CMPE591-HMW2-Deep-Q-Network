@@ -1,4 +1,4 @@
-# CMPE591-HMW2-Deep-Q-Network-
+Deep-Q-Network-
 
 # Training Results
 
